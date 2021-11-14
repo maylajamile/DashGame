@@ -9,7 +9,7 @@
 </h1>
 
 ## 🚨 Sobre
-**Pequeno jogo criado sem engine, utilizando a linguagem Java e JFrame (GUI Java). Projeto de jogo originalmente criado por Guilherme Grillo (Danki Code)**
+**Pequeno jogo criado sem engine, utilizando a linguagem Java e JFrame (GUI Java). Projeto de jogo originalmente criado e mostrado em vídeo por Guilherme Grillo**
 
 ## 🤔 Como Jogar?
 **O jogador deve destruir, clicando no mouse, o maior número de quadrados possivel antes que a barra de vida (na parte superior, na cor verde) chegue ao fim. Quando a barra de vida chega ao fim, será mostrado na tela quantos pontos foram feitos.**
